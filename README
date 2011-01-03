@@ -7,6 +7,9 @@
 
 [Maxthon 3.x]
 
+バージョン 3.0.18 以降、言語ファイルが刷新されました。
+2011 年 1 月 3 日現在もなお新機能追加に伴う言語ファイル改訂がなされております。
+
  - 既定のインストールフォルダー C:\Program Files\Maxthon3\Language に ja-jp.ini をコピーして Maxthon 3 を起動。 Menu >> Language >> 日本語 (ja-JP) を選択してください
 
 Maxthon http://maxthon.com
@@ -14,6 +17,6 @@ barlog http://barca.daa.jp
 daisuke barlog osada http://facebook.com/daisuke.osada
 daisuke http://twitter.com/daisuke 
 
-Nov, 14 2010
+Jan, 3rd 2011
  Maxthon 2.x, 3.x の日本語言語を管理している daisuke osada です。
  ご意見などございましたら Maxthon 社（ Maxthon International Limited ）ではなく上記 Twitter/daisuke または Facebook.com/daisuke.osada などにお寄せいただきますよう宜しくお願いします。
