@@ -1,28 +1,34 @@
-# Maxthon 3.x についてのお知らせ
-
-### バージョン 3.0.18 以降、言語ファイルが刷新されました。
-
-2011 年 1 月 3 日現在もなお新機能追加に伴う言語ファイル改訂がなされております。
-オプション画面など新機能追加による変更が及ばない部分から翻訳を着手し随時こちらにて公開しております。
-よろしくご了承のほどお願いいたします。
-
-### Maxthon 2.x
-- If you had been installed the Maxthon?
-- Just execute *.m2l
-
-+ Maxthon がインストール済みなら拡張子 .m2l を実行するだけで自動インストールが可能です。(拡張子 .m2l の実体は zip 書庫です。m2l を zip にリネームすれば展開が可能です。)
-
-## Maxthon 3.x
-- 既定のインストールフォルダー C:\Program Files\Maxthon3\Language に ja.ini（旧 ja-jp.ini） をコピーして Maxthon 3 を起動。 Menu >> Language >> 日本語 (ja) を選択してください
-
+loca
 ====
-[Maxthon](http://maxthon.com)
-[barlog](http://barca.daa.jp)
-[daisuke barlog osada](http://facebook.com/daisuke.osada)
-[daisuke](http://twitter.com/daisuke)
-----
-Jan, 3rd 2011
-- [:)]: Maxthon 2.x, 3.x の日本語言語を管理している daisuke osada です。
-- ご意見などございましたら Maxthon 社（ Maxthon International Limited ）ではなく上記 Twitter/daisuke または Facebook.com/daisuke.osada などにお寄せいただきますよう宜しくお願いします。
 
+### 汎用的フォーマットの構築（旧Maxthon公式の日本語言語repo[^1]）
+
+#### 2014年はGitベースのプロダクトが多数誕生しそうな年である。
+
+出版関係をはじめ多くの技術コミュニティがそのための準備にとりかかり活性化してきた。
+
+微力ではあるが小生が使用している汎用手順と、何のためにGitベースなのかを考慮した協同作業技術をコミットしたいと思う。
+
+取り急ぎ現時点で稼働実績のある[O’Reilly Atlas\[beta\]](https://atlas.oreilly.com/)をモデルとして進行させたい。
+
+[Atlas Guides](http://atlasdocs.oreilly.com/)
+
+
+* * * 
+
+[^1]: 以下はこのrepoで2012年まで運用していたMaxthonの情報
+
+[Maxthon](http://maxthon.com)
+[barlog](http://osada.us)
+[daisuke](http://twitter.com/daisuke)
+
+現在はクラウド翻訳ツールを使用して管理されているため筆者は管理を行っていません。
+
+2014年をもちましてこの記述も消滅します。あしからずご了承ください
+
+Cloud Browserへと進化した [Maxthon](http://maxthon.com) を今後共支援していく予定です。
+
+よろしくお願いします。 
+
+[@dai](github.com/dai) (daisuke osada) 長田大輔
 
