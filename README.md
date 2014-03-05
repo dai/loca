@@ -16,11 +16,11 @@ loca
 
 * * * 
 
-- [x]: 以下はこのrepoで2012年まで運用していたMaxthonの情報
+##### 以下はこのrepoで2012年まで運用していたMaxthonの情報
 
-[Maxthon](http://maxthon.com)
-[barlog](http://osada.us)
-[daisuke](http://twitter.com/daisuke)
+- [Maxthon](http://maxthon.com)
+- [barlog](http://osada.us)
+
 
 現在はクラウド翻訳ツールを使用して管理されているため筆者は管理を行っていません。
 
@@ -30,5 +30,5 @@ Cloud Browserへと進化した [Maxthon](http://maxthon.com) を今後共支援
 
 よろしくお願いします。 
 
-@dai (daisuke osada) 長田大輔
+[@dai](github.com/dai) (daisuke osada) 長田大輔 3rd, Mar 2014
 
