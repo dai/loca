@@ -1,7 +1,7 @@
 loca
 ====
 
-### 汎用的フォーマットの構築（旧Maxthon公式の日本語言語repo[^1]）
+### 汎用的フォーマットの構築（旧Maxthon公式の日本語言語repo）
 
 #### 2014年はGitベースのプロダクトが多数誕生しそうな年である。
 
@@ -16,7 +16,7 @@ loca
 
 * * * 
 
-[^1]: 以下はこのrepoで2012年まで運用していたMaxthonの情報
+- [x]: 以下はこのrepoで2012年まで運用していたMaxthonの情報
 
 [Maxthon](http://maxthon.com)
 [barlog](http://osada.us)
@@ -30,5 +30,5 @@ Cloud Browserへと進化した [Maxthon](http://maxthon.com) を今後共支援
 
 よろしくお願いします。 
 
-[@dai](github.com/dai) (daisuke osada) 長田大輔
+@dai (daisuke osada) 長田大輔
 
